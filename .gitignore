@@ -1,0 +1,5 @@
+saved_variables.cfg
+adxl_results/belts/*.csv
+adxl_results/vibrations/*.tar.gz
+macros/K-ShakeTune_results/belts/*.csv
+macros/K-ShakeTune_results/inputshaper/*.csv
